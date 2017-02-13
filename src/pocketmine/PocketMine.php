@@ -73,7 +73,7 @@ namespace pocketmine {
 	use pocketmine\wizard\Installer;
 
 	const VERSION = "1.0";
-	const API_VERSION = "3.0.0-ALPHA1";
+	const API_VERSION = "2.1.0";
 	const CODENAME = "Birpen";
 	const MINECRAFT_VERSION = "v1.0.0 alpha";
 	const MINECRAFT_VERSION_NETWORK = "1.0.0";
