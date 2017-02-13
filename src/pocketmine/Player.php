@@ -2138,7 +2138,6 @@ class Player extends Human implements CommandSender, InventoryHolder, ChunkLoade
 			$this->ip,
 			$this->port,
 			TextFormat::GREEN . $this->randomClientId . TextFormat::WHITE,
-			TextFormat::YELLOW . $this->protocol . TextFormat::WHITE,
 			$this->id,
 			$this->level->getName(),
 			round($this->x, 4),
